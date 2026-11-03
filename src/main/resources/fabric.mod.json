@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "monoplegia",
+  "version": "${version}",
+  "name": "Monoplegia",
+  "description": "Allow or block ordinary torch and lantern placement from your offhand. Switch modes with a hotkey. Useful with dynamic lighting.",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.medbeebs.monoplegia.MonoplegiaClient"
+    ],
+    "modmenu": [
+      "dev.medbeebs.monoplegia.MonoplegiaModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": ">=21.0.0"
+  },
+  "icon": "assets/monoplegia/icon.png"
+}

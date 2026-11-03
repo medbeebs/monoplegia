@@ -1,0 +1,22 @@
+{
+  "key.category.monoplegia.controls": "Monoplegia",
+  "key.monoplegia.toggle": "Toggle blocking mode",
+  "screen.monoplegia.title": "Monoplegia",
+  "modmenu.nameTranslation.monoplegia": "Monoplegia",
+  "modmenu.summaryTranslation.monoplegia": "Toggle offhand light placement.",
+  "modmenu.descriptionTranslation.monoplegia": "Allow or block ordinary torch and lantern placement from your offhand. Switch modes with a hotkey. Useful with dynamic lighting.",
+  "message.monoplegia.placement": "Torch and lantern placement %s",
+  "message.monoplegia.blocked": "blocked",
+  "message.monoplegia.allowed": "allowed",
+  "option.monoplegia.placement": "Light placement",
+  "option.monoplegia.notifications": "Notifications",
+  "option.monoplegia.blocked": "Blocked",
+  "option.monoplegia.allowed": "Allowed",
+  "option.monoplegia.action_bar": "Above hotbar",
+  "option.monoplegia.chat": "In chat",
+  "option.monoplegia.reset": "Reset",
+  "option.monoplegia.allowed.description": "Ordinary torches and lanterns can be placed from your offhand.",
+  "option.monoplegia.blocked.description": "Offhand placement is blocked. Items remain held for dynamic lighting.",
+  "option.monoplegia.action_bar.description": "Notifications appear above the hotbar.",
+  "option.monoplegia.chat.description": "Notifications appear in chat and remain in chat history."
+}

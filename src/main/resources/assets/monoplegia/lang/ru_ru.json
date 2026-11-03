@@ -1,0 +1,22 @@
+{
+  "key.category.monoplegia.controls": "Monoplegia",
+  "key.monoplegia.toggle": "Переключить режим запрета",
+  "screen.monoplegia.title": "Monoplegia",
+  "modmenu.nameTranslation.monoplegia": "Monoplegia",
+  "modmenu.summaryTranslation.monoplegia": "Переключение установки света из второй руки.",
+  "modmenu.descriptionTranslation.monoplegia": "Позволяет разрешить или запретить установку обычных факелов и фонарей из второй руки. Переключение режима — по горячей клавише. Удобно для игры с динамическим освещением.",
+  "message.monoplegia.placement": "Установка факелов и фонарей %s",
+  "message.monoplegia.blocked": "запрещена",
+  "message.monoplegia.allowed": "разрешена",
+  "option.monoplegia.placement": "Установка света",
+  "option.monoplegia.notifications": "Уведомления",
+  "option.monoplegia.blocked": "Запрещена",
+  "option.monoplegia.allowed": "Разрешена",
+  "option.monoplegia.action_bar": "Над хотбаром",
+  "option.monoplegia.chat": "В чате",
+  "option.monoplegia.reset": "Сброс",
+  "option.monoplegia.allowed.description": "Обычные факелы и фонари можно ставить из второй руки.",
+  "option.monoplegia.blocked.description": "Установка из второй руки запрещена. Предметы остаются в руке для динамического освещения.",
+  "option.monoplegia.action_bar.description": "Уведомление появляется над панелью быстрого доступа.",
+  "option.monoplegia.chat.description": "Уведомление появляется в чате и сохраняется в его истории."
+}
